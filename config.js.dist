@@ -1,0 +1,9 @@
+settings = {
+    port: 3000, 
+    host: 'localhost',
+    url: '/your/tweet/url',
+
+    // how many times to tweet, and how much to rest in between
+    timeout: 10,
+    repeat: 1000,
+}
